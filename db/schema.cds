@@ -15,3 +15,5 @@ entity e_procurement_control_paramT : cuid, managed {
 }
 
 annotate e_procurement_control_paramT @odata.draft.enabled;
+
+
